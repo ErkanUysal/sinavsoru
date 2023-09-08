@@ -1,0 +1,8 @@
+C:\Users\Monster\source\repos\takimsinavlari\takimsinavlari\bin\Debug\takimsinavlari.exe.config
+C:\Users\Monster\source\repos\takimsinavlari\takimsinavlari\bin\Debug\takimsinavlari.exe
+C:\Users\Monster\source\repos\takimsinavlari\takimsinavlari\bin\Debug\takimsinavlari.pdb
+C:\Users\Monster\source\repos\takimsinavlari\takimsinavlari\obj\Debug\takimsinavlari.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\takimsinavlari\takimsinavlari\obj\Debug\takimsinavlari.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\source\repos\takimsinavlari\takimsinavlari\obj\Debug\takimsinavlari.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\takimsinavlari\takimsinavlari\obj\Debug\takimsinavlari.exe
+C:\Users\Monster\source\repos\takimsinavlari\takimsinavlari\obj\Debug\takimsinavlari.pdb
